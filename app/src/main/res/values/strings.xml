@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GymondoTestApp</string>
+    <string name="fetch">Fetch</string>
+    <string name="image_placeholder">Image #%s</string>
+    <string name="by_placeholder">by %s</string>
+    <string name="content_description_image">Image #%s by %s</string>
+    <string name="server_error">Server error %d</string>
+    <string name="server_unavailable">Server Unavailable</string>
+    <string name="no_items_fetched">No items fetched</string>
+</resources>
